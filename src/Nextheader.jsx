@@ -8,7 +8,7 @@ const Nextheader = () => {
       <div className="mb-6 sm:mb-8">
         <h1 className="text-2xl sm:text-3xl font-bold mb-2">Top Heading</h1>
         <p className="text-base sm:text-lg text-gray-600">
-          This is the subheading below the main heading
+          This is the Subheading
         </p>
       </div>
 
