@@ -1,6 +1,6 @@
 import React from "react";
 
-const footer = () => {
+const Footer = () => {
   return (
     <footer className="p-8">
       <div className="grid grid-cols-1 md:grid-cols-4 gap-8 max-w-7xl mx-auto">
@@ -122,4 +122,4 @@ const footer = () => {
   );
 };
 
-export default footer;
+export default Footer;

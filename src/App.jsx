@@ -1,6 +1,6 @@
 import "./App.css";
-import Navbar from "./components/navbar";
-import Footer from "./components/footer";
+import Navbar from "./Navbar";
+import Footer from "./Footer";
 import Home from "./Home";
 import NextPage from "./Nextpage";
 import Nextheader from "./Nextheader";
